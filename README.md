@@ -1,6 +1,6 @@
 # ticknchat
 
-Tinder like app using react and redux
+Building tinder like app using react and redux
 
 ### Getting Started
 
